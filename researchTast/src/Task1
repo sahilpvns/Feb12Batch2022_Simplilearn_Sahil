@@ -1,0 +1,5 @@
+Question 1:  Why we have to close Scanner object using obj.close();
+=========================================================================
+
+The close() method ofjava.util.Scanner class closes the scanner which has been opened.
+If the scanner is already closed then on calling this method, it will have no effect.

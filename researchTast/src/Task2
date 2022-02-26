@@ -1,0 +1,7 @@
+Question: 3   Can we create static class?
+===============================================
+ 
+We can declare a class static by using the static keyword.
+A class can be declared static only if it is a nested class.
+It does not require any reference of the outer class.
+The property of the static class is that it does not allows us to access the non-static members of the outer class.
